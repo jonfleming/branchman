@@ -1,0 +1,7 @@
+This utility keeps a list of recent git branches
+
+Syntax:
+  ☐ br <branch>     switches to <branch>
+  ☐ br              list recent branches
+
+
